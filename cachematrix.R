@@ -1,6 +1,8 @@
 ## By Juan Pedro Vasquez Lopez
-## At first glance it appered a little ethereal and too abstract (didn't it?)... but finally, thank G-d I got it!
-## USAGE AFTER PROPER RUN (SOURCED) (just an example):
+## At first glance it seemed ethereal and too abstract (didn't it?)
+## ... but finally, thank G-d, I got it!
+##
+## USAGE EXAMPLE AFTER PROPER RUN (SOURCED):
 ## set.seed(12) #to get the same result than me despite rnorm
 ## a <- makeCacheMatrix() #the list is created
 ## a$set( matrix(rnorm(36),6,6)  ) #some invertible squared matrix
